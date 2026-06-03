@@ -1,16 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
-    <head>
+<html lang="pt-br">
+<head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="windt=device-windth= device
-    <title>Agrinho
-        <
-
-    <title>Agrinho-2026</title>
- <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>agrinho - nome</title>
+    <link rel="styleshet" href="style.css">
+</head>
 <body>
-   <h1>Titulo do meu texto</h1>
-   <p>Aqui tem o meu conteúdo</p>
+    <header>
+        <h1>titulo</h1>
+        <p>introduçao</p>
+    </header>
+    <main>
+        <h2>subtitulo</h2>
+        <p>bem-vindo ao meu site</p>
+    </main>
+    <footer>
+         <p>por: Ana Clara</p>
+    </footer>
 </body>
-
-</htnl
+</html>
